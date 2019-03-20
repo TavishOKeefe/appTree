@@ -12,7 +12,7 @@ _Returns API data to the DOM in JavaScript._
 * _Open in Atom, or text and source code editor of your choosing._
 * _Install Node.js on your desktop, if not already installed._
 * _Run npm install command through terminal, within project directory._
-* _Run npm run start to launch application._
+* _npm run start in CLI to launch application._
 
 
 ## Known Bugs
