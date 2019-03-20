@@ -4,7 +4,7 @@
 
 ## Description
 
-_Returns API data to the DOM in JavaScript._
+_Returns Chuck Norris Jokes API data to the DOM using JavaScript._
 
 ## _Setup/Installation Requirements_
 
