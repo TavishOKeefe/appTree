@@ -4,16 +4,14 @@
 
 ## Description
 
-_Returns API data to the DOM in vanilla JS._
+_Returns API data to the DOM in JavaScript._
 
 ## _Setup/Installation Requirements_
 
-* _Go to https://developer.betterdoctor.com/, and register for a unique API key._
 * _Clone repository to your desktop_
 * _Open in Atom, or text and source code editor of your choosing._
 * _Install Node.js on your desktop, if not already installed._
 * _Run npm install command through terminal, within project directory._
-* _Update code to use your unique API key._
 * _Run npm run start to launch application._
 
 
@@ -30,7 +28,7 @@ _Tavish OKeefe: okeefe.tavish@gmail.com_
 * _Node_
 * _JavaScript_
 * _Webpack_
-* _BetterDoctorAPI_
+* _https://api.chucknorris.io/_
 
 ### License
 
