@@ -11,7 +11,7 @@ _Returns Chuck Norris Jokes API data to the DOM using JavaScript._
 * _Clone repository to your desktop_
 * _Open in Atom, or text and source code editor of your choosing._
 * _Install Node.js on your desktop, if not already installed._
-* _Run npm install command through terminal, within project directory._
+* _Run npm install command in terminal, within project directory._
 * _npm run start in CLI to launch application._
 
 
@@ -32,7 +32,7 @@ _Tavish OKeefe: okeefe.tavish@gmail.com_
 
 ### License
 
-Copyright (c) 2018, _Tavish O'Keefe_  
+Copyright (c) 2019, _Tavish O'Keefe_  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
